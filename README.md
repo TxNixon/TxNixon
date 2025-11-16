@@ -32,15 +32,16 @@
 - 📫 Email: **admojocahyo@gmail.com**
 - 👯 I'm open to collaborating on automation, finance-related systems, or exciting new tech ideas.
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TxNixon&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TxNixon&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxNixon&theme=radical&layout=compact&langs_count=6" alt="Top Languages" />
+</div>
 
-[![Admojo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TxNixon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TxNixon&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=TxNixon&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TxNixon&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ## 🔥 Automation & Business Tools
 
