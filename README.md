@@ -1,4 +1,8 @@
-<div style="margin-top:-40px; margin-bottom:-20px;">
+<!-- Spacer untuk menghilangkan top-padding GitHub -->
+<p style="margin:0; padding:0; height:5px;"></p>
+
+<!-- Banner with adjusted margins -->
+<div style="margin-top:-60px; margin-bottom:-20px;">
   <img 
     src="https://github.com/user-attachments/assets/c930ae60-09c4-48c4-97ef-19d150f4f989"
     alt="github-header-banner"
@@ -10,21 +14,27 @@
 - 🔭 I'm a passionate self-taught programmer, currently mastering **JavaScript** and **Python**.
 - 🕹️ In my spare time, I tinker with **UiPath** to streamline and automate business processes.
 - 💼 As a businessman, efficiency and automation are my game—always exploring new ways to enhance productivity.
-- 🌐 Tech enthusiast? Absolutely! I'm all about exploring the endless possibilities that technology offers.
-- 💹 Whether it's cryptocurrencies or the stock market, I'm actively engaged and always looking for the next big thing.
-- 🤝 I'm on the lookout for like-minded individuals for potential collaborations. Let's connect!
+- 🌐 I love exploring technology and discovering new tools that can solve real-world problems.
+- 💹 Actively engaged in **cryptocurrency** and **stock markets**, always learning and adapting.
+- 🤝 I'm open to collaborating with like-minded people, especially in tech, automation, or finance.
 
 ## Learning Journey
-- 🌱 Learning is a never-ending journey for me, and I'm currently diving deep into both frontend and backend development.
-- 🤖 Automation has captured my heart, and coding has become my tool of choice for making life easier.
+
+- 🌱 Learning is a continuous journey for me—I'm currently diving deeper into both **frontend** and **backend** development.
+- 🤖 My passion for automation keeps growing, and coding has become my main tool to make life (and business) more efficient.
 
 ## Connect With Me
-- 📫 How to reach me email me : admojocahyo@gmail.com
-- 👯 Looking to collaborate on innovative projects related to automation or finance.
+
+- 📫 Email: **admojocahyo@gmail.com**
+- 👯 I'm open to collaborating on automation, finance-related systems, or exciting new tech ideas.
 
 ## Fun Fact
-- 🏇 When I'm not absorbed in the tech world, I'm likely playing with my kids. I often end up being the 'family horse' for my daughter, which always brings us lots of laughter.
+
+- 🏇 When I'm not immersed in tech, I'm usually playing with my kids.  
+  My daughter often turns me into the family “horse,” and honestly—it's one of the happiest parts of my day.
 
 ---
 
-Excited by what you see? Let’s talk about business, technology, automation, or the joy of simple moments with family. Feel free to reach out!
+Excited by what you see?  
+Let's talk about **business**, **technology**, **automation**, or even the simple joys of **family moments**.  
+Feel free to reach out anytime!
