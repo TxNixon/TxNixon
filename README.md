@@ -32,7 +32,7 @@
 - 📫 Email: **admojocahyo@gmail.com**
 - 👯 I'm open to collaborating on automation, finance-related systems, or exciting new tech ideas.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TxNixon&theme=radical" alt="GitHub Streak" />
@@ -43,18 +43,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TxNixon&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Automation & Business Tools
+## Automation & Business Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Fun Fact
-
-- 🏇 When I'm not immersed in tech, I'm usually playing with my kids.
-  My daughter often turns me into the family “horse,” and honestly—it's one of the happiest parts of my day.
 
 ---
 
