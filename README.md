@@ -1,4 +1,9 @@
-<img width="4088" height="3456" alt="github-header-banner" src="https://github.com/user-attachments/assets/c930ae60-09c4-48c4-97ef-19d150f4f989" />
+<div style="margin-top:-40px; margin-bottom:-20px;">
+  <img 
+    src="https://github.com/user-attachments/assets/c930ae60-09c4-48c4-97ef-19d150f4f989"
+    alt="github-header-banner"
+  />
+</div>
 
 ## About Me
 
