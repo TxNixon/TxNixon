@@ -1,6 +1,9 @@
 # Hello, World! I'm Admojo👋
 
+<img width="4088" height="3456" alt="github-header-banner" src="https://github.com/user-attachments/assets/c930ae60-09c4-48c4-97ef-19d150f4f989" />
+
 ## About Me
+
 - 🔭 I'm a passionate self-taught programmer, currently mastering **JavaScript** and **Python**.
 - 🕹️ In my spare time, I tinker with **UiPath** to streamline and automate business processes.
 - 💼 As a businessman, efficiency and automation are my game—always exploring new ways to enhance productivity.
