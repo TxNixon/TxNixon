@@ -52,10 +52,10 @@ INVENTORY      →  curiosity: unlimited · patience: recharging · bugs: still 
 
 ## `arcade` · after-hours side quest
 
-**Bug Hunter** is my tiny build-loop arcade: the bugs keep spawning, the ship keeps patrolling, and the mission stays the same — *less busywork*. This is a decorative animation, not a playable game or a GitHub contribution counter.
+**Snake.** A little break between builds. Eat, grow, repeat. An animated autoplay loop.
 
 <p align="center">
-  <img src="./bug-hunter.svg" width="100%" alt="Animated Bug Hunter arcade scene: a small spaceship patrols through pixel bugs. Decorative animation, not a playable game." />
+  <img src="./snake.svg" width="100%" alt="Snake autoplay: the snake eats food, grows, and scores points before the round restarts." />
 </p>
 
 <details>
