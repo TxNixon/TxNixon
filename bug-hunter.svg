@@ -1,7 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc"><title id="title">Bug Hunter — animated arcade scene</title><desc id="desc">Decorative looping animation of a spaceship hunting pixel bugs. This is not an interactive game or a representation of GitHub contributions.</desc><style>@keyframes patrol{0%,100%{transform:translateX(0)}50%{transform:translateX(242px)}}@keyframes drift{0%,100%{transform:translateX(0)}50%{transform:translateX(36px)}}@keyframes shot{0%,42%{transform:translateY(0);opacity:0}44%{opacity:1}50%{transform:translateY(-145px);opacity:1}52%,100%{transform:translateY(-145px);opacity:0}}.ship{animation:patrol 8s ease-in-out infinite}.bugs{animation:drift 4s ease-in-out infinite}.shot{animation:shot 8s linear infinite}.bug-target{animation:bugHit 8s linear infinite}.impact{animation:impact 8s linear infinite}@keyframes bugHit{0%,49%{opacity:1}51%,87%{opacity:0}90%,100%{opacity:1}}@keyframes impact{0%,48%,56%,100%{opacity:0}50%,52%{opacity:1}}@media(prefers-reduced-motion:reduce){.ship,.bugs,.shot,.bug-target,.impact{animation:none}}</style>
-<defs><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#26354b"/></pattern></defs>
-<rect width="1200" height="360" rx="16" fill="#0b1220"/><rect width="1200" height="360" rx="16" fill="url(#dots)"/><rect x="1" y="1" width="1198" height="358" rx="16" fill="none" stroke="#27374f"/>
-<g font-family="monospace" font-size="14" letter-spacing="2"><text x="30" y="35" fill="#67e8f9">01 / BUG HUNTER</text><text x="1170" y="35" text-anchor="end" fill="#94a3b8">BUILD • DEBUG • REPEAT</text></g>
-<g class="bugs"><g transform="translate(210 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(298 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(386 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(474 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g class="bug-target" transform="translate(562 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(650 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(738 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(826 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(914 84)" fill="#a78bfa"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(210 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(298 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(386 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(474 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(562 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(650 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(738 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(826 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(914 128)" fill="#22d3ee"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(210 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(298 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(386 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(474 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(562 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(650 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(738 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(826 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g><g transform="translate(914 172)" fill="#34d399"><path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z"/><path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220"/></g></g><g class="impact" transform="translate(578 96)" stroke="#fbbf24" stroke-width="3"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6"/></g><path d="M30 300H1170" stroke="#27374f" stroke-dasharray="4 6"/>
-<g class="ship"><g transform="translate(300 265)"><path class="shot" d="M20 -8v-18" stroke="#fbbf24" stroke-width="4"/><path d="M16 0h8v8h8v8h8v12H0V16h8V8h8z" fill="#67e8f9"/><path d="M16 28h8v10h-8" fill="#a78bfa"/></g></g>
-<text x="30" y="335" fill="#64748b" font-family="monospace" font-size="13">ANIMATED ARCADE / AUTOPILOT LOOP</text><text x="1170" y="335" text-anchor="end" fill="#34d399" font-family="monospace" font-size="13">MISSION: LESS BUSYWORK.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Bug Hunter — looping pixel-art arcade scene</title>
+  <desc id="desc">A small ship sweeps beneath a drifting formation of pixel bugs, firing repeated volleys as targets flash and reappear. Decorative animation, not an interactive game.</desc>
+  <defs>
+    <pattern id="stars" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#26354b" />
+    </pattern>
+    <g id="invader" shape-rendering="crispEdges">
+      <path d="M6 0h4v4h12V0h4v8h6v16h-6v-4h-4v4H10v-4H6v4H0V8h6z" />
+      <path d="M8 10h4v4H8zm12 0h4v4h-4z" fill="#0b1220" />
+    </g>
+    <style>
+      @keyframes fleetMove {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(28px, 8px); }
+      }
+      @keyframes shipPatrol {
+        0%, 100% { transform: translateX(-280px); }
+        50% { transform: translateX(280px); }
+      }
+      @keyframes playerShot {
+        0%, 8% { opacity: 0; transform: translateY(0); }
+        12% { opacity: 1; }
+        68% { opacity: 1; transform: translateY(-154px); }
+        72%, 100% { opacity: 0; transform: translateY(-154px); }
+      }
+      @keyframes enemyShot {
+        0%, 14% { opacity: 0; transform: translateY(0); }
+        18% { opacity: 1; }
+        72% { opacity: 1; transform: translateY(90px); }
+        76%, 100% { opacity: 0; transform: translateY(90px); }
+      }
+      @keyframes targetHit {
+        0%, 8% { opacity: 1; }
+        9%, 11% { opacity: .25; }
+        12%, 29% { opacity: 0; }
+        30%, 100% { opacity: 1; }
+      }
+      @keyframes burst {
+        0%, 8%, 17%, 100% { opacity: 0; }
+        10%, 13% { opacity: 1; }
+      }
+      .fleet { animation: fleetMove 5.6s ease-in-out infinite; }
+      .ship { animation: shipPatrol 7.2s ease-in-out infinite; }
+      .shot { animation: playerShot 2.4s linear infinite; }
+      .shot-b { animation-delay: -.8s; }
+      .shot-c { animation-delay: -1.6s; }
+      .enemy-shot { animation: enemyShot 3.6s linear infinite; }
+      .enemy-shot-b { animation-delay: -1.8s; }
+      .target { animation: targetHit 9s linear infinite; }
+      .hit-2 { animation-delay: 1.1s; }
+      .hit-3 { animation-delay: 2.2s; }
+      .hit-4 { animation-delay: 3.3s; }
+      .hit-5 { animation-delay: 4.4s; }
+      .blast { animation: burst 9s ease-out infinite; }
+      .blast-2 { animation-delay: 1.1s; }
+      .blast-3 { animation-delay: 2.2s; }
+      .blast-4 { animation-delay: 3.3s; }
+      .blast-5 { animation-delay: 4.4s; }
+      @media (prefers-reduced-motion: reduce) {
+        .fleet, .ship, .shot, .enemy-shot, .target, .blast { animation: none; }
+        .target { opacity: 1; }
+        .blast { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="16" fill="#0b1220" />
+  <rect width="1200" height="360" rx="16" fill="url(#stars)" />
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="none" stroke="#27374f" />
+
+  <g font-family="monospace" font-size="13" letter-spacing="1.7">
+    <text x="30" y="35" fill="#67e8f9">01 / BUG HUNTER</text>
+    <text x="1170" y="35" text-anchor="end" fill="#94a3b8">SCORE 0840  ·  WAVE 03</text>
+  </g>
+  <path d="M30 48H1170" stroke="#27374f" />
+
+  <g class="fleet">
+    <g fill="#a78bfa">
+      <use href="#invader" x="210" y="82" />
+      <use href="#invader" x="298" y="82" />
+      <g class="target" fill="#a78bfa"><use href="#invader" x="386" y="82" /></g>
+      <use href="#invader" x="474" y="82" />
+      <use href="#invader" x="562" y="82" />
+      <use href="#invader" x="650" y="82" />
+      <use href="#invader" x="738" y="82" />
+      <g class="target hit-4" fill="#a78bfa"><use href="#invader" x="826" y="82" /></g>
+      <use href="#invader" x="914" y="82" />
+    </g>
+    <g fill="#22d3ee">
+      <use href="#invader" x="210" y="126" />
+      <g class="target hit-5" fill="#22d3ee"><use href="#invader" x="298" y="126" /></g>
+      <use href="#invader" x="386" y="126" />
+      <use href="#invader" x="474" y="126" />
+      <g class="target hit-2" fill="#22d3ee"><use href="#invader" x="562" y="126" /></g>
+      <use href="#invader" x="650" y="126" />
+      <use href="#invader" x="738" y="126" />
+      <use href="#invader" x="826" y="126" />
+      <use href="#invader" x="914" y="126" />
+    </g>
+    <g fill="#34d399">
+      <use href="#invader" x="210" y="170" />
+      <use href="#invader" x="298" y="170" />
+      <use href="#invader" x="386" y="170" />
+      <use href="#invader" x="474" y="170" />
+      <use href="#invader" x="562" y="170" />
+      <use href="#invader" x="650" y="170" />
+      <g class="target hit-3" fill="#34d399"><use href="#invader" x="738" y="170" /></g>
+      <use href="#invader" x="826" y="170" />
+      <use href="#invader" x="914" y="170" />
+    </g>
+  </g>
+
+  <g fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round">
+    <g class="blast" transform="translate(402 94)"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6" /></g>
+    <g class="blast blast-2" transform="translate(578 138)"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6" /></g>
+    <g class="blast blast-3" transform="translate(754 182)"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6" /></g>
+    <g class="blast blast-4" transform="translate(842 94)"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6" /></g>
+    <g class="blast blast-5" transform="translate(314 138)"><path d="M-9 0H9M0-9V9M-6-6L6 6M6-6L-6 6" /></g>
+  </g>
+
+  <g class="enemy-shot" fill="#fb7185"><rect x="478" y="190" width="4" height="16" rx="2" /></g>
+  <g class="enemy-shot enemy-shot-b" fill="#fb7185"><rect x="826" y="190" width="4" height="16" rx="2" /></g>
+  <path d="M30 284H1170" stroke="#27374f" stroke-dasharray="4 6" />
+
+  <g class="ship">
+    <g transform="translate(584 264)" shape-rendering="crispEdges">
+      <rect class="shot shot-a" x="17" y="-12" width="4" height="15" rx="2" fill="#fbbf24" />
+      <rect class="shot shot-b" x="11" y="-12" width="4" height="15" rx="2" fill="#fbbf24" />
+      <rect class="shot shot-c" x="23" y="-12" width="4" height="15" rx="2" fill="#fbbf24" />
+      <path d="M16 0h8v8h8v8h8v12H0V16h8V8h8z" fill="#67e8f9" />
+      <path d="M16 28h8v10h-8" fill="#a78bfa" />
+    </g>
+  </g>
+
+  <path d="M30 300H1170" stroke="#27374f" stroke-dasharray="4 6" />
+  <text x="30" y="335" fill="#64748b" font-family="monospace" font-size="13">AUTOPILOT / REPEATING VOLLEY</text>
+  <text x="1170" y="335" text-anchor="end" fill="#34d399" font-family="monospace" font-size="13">MISSION: LESS BUSYWORK.</text>
+</svg>
